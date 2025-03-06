@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio Website 🚀  
 
 A **responsive and interactive** personal portfolio built with **React.js**, showcasing my **projects, skills, and experience**. Designed with a **clean UI and smooth navigation** to provide an engaging user experience.  
-
+![Alt text](https://github.com/mattia-hulathduwage/Personal-Portfolio/blob/master/screenshot.png?raw=true)
 ## 🛠 Tech Stack  
 - **Frontend**: React.js, HTML, CSS, JavaScript  
 - **Styling**: Tailwind CSS (or CSS Modules, if applicable)  
